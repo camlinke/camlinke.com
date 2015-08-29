@@ -2,7 +2,7 @@ body {
     font-family: Helvetica;
 }
 
-h1 {
+/*h1 {
     font-size: 2.8em;
     padding-top: 10px;
     padding-bottom: 10px;
@@ -11,19 +11,28 @@ h1 {
 h2 {
     font-size: 1.5em;
     padding-bottom: 20px;
+    margin-left: 10px;
 }
 
 p {
     font-size: 1.2em;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    margin-left: 10px;
+    line-height: 23px;
 }
 
-#icons {
-    display: inline-block;
+ul {
+    margin-left: 10px;
+}*/
+
+#icons li {
+    display: inline;
 }
 
-.container {
+/*.container {
     width: 960;
     min-height: 700px;
     margin-left: auto;
     margin-right: auto;
-}
+}*/
